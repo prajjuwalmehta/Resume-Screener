@@ -2,5 +2,5 @@ PyPDF2==2.5.0
 docx2txt==0.8
 streamlit==1.10.0
 pandas==1.4.1
-matplotlib=3.5.1
+matplotlib==3.5.1
 sklearn==0.0
